@@ -1,4 +1,4 @@
-# Leetcode daily challeng December Month
+# Leetcode daily challenge December Month
 
 ### Solutions
 
