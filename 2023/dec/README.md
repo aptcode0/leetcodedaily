@@ -9,3 +9,4 @@
 | 3 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description) | [3.go](./3.go) |
 | 4 | [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description) | [4.go](./4.go) |
 | 5 | [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description) | [5.go](./5.go) |
+| 6 | [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description) | [6.go](./6.go) |
