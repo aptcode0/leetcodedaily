@@ -13,3 +13,4 @@
 | 7 | [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description) | [7.go](./7.go) |
 | 8 | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description) | [8.go](./8.go) |
 | 9 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description) | [9.go](./9.go) |
+| 10 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description) | [10.go](./10.go) |
