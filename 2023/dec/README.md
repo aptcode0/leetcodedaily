@@ -14,3 +14,4 @@
 | 8 | [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description) | [8.go](./8.go) |
 | 9 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description) | [9.go](./9.go) |
 | 10 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description) | [10.go](./10.go) |
+| 11 | [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description) | [11.go](./11.go) |
