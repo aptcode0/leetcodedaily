@@ -15,3 +15,4 @@
 | 9 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description) | [9.go](./9.go) |
 | 10 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description) | [10.go](./10.go) |
 | 11 | [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description) | [11.go](./11.go) |
+| 12 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description) | [12/go](./12.go) |
