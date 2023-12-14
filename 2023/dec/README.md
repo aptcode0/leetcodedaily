@@ -16,3 +16,4 @@
 | 10 | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description) | [10.go](./10.go) |
 | 11 | [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/description) | [11.go](./11.go) |
 | 12 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description) | [12/go](./12.go) |
+| 13 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description) | [13.go](./13.go) |
