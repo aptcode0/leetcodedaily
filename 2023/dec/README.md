@@ -18,3 +18,4 @@
 | 12 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description) | [12/go](./12.go) |
 | 13 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description) | [13.go](./13.go) |
 | 14 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description) | [14.go](./14.go) |
+| 15 | [1436. Destination City](https://leetcode.com/problems/destination-city/description/) | [15.go](./15.go) |
