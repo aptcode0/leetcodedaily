@@ -19,3 +19,4 @@
 | 13 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description) | [13.go](./13.go) |
 | 14 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description) | [14.go](./14.go) |
 | 15 | [1436. Destination City](https://leetcode.com/problems/destination-city/description/) | [15.go](./15.go) |
+| 16 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description) | [16.go](./16.go) |
