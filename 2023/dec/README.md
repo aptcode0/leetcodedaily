@@ -20,3 +20,4 @@
 | 14 | [2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description) | [14.go](./14.go) |
 | 15 | [1436. Destination City](https://leetcode.com/problems/destination-city/description/) | [15.go](./15.go) |
 | 16 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description) | [16.go](./16.go) |
+| 17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description) | [17.go](./17.go) |
