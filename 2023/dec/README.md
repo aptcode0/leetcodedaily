@@ -21,4 +21,5 @@
 | 15 | [1436. Destination City](https://leetcode.com/problems/destination-city/description/) | [15.go](./15.go) |
 | 16 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description) | [16.go](./16.go) |
 | 17 | [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description) | [17.go](./17.go) |
-| 18 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/description) | [18.go](./18.go) |
+| 18 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description) | [18.go](./18.go) |
+| 19 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/description) | [19.go](./19.go) |
