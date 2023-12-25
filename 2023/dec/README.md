@@ -28,3 +28,4 @@
 | 22 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description) | [22](./22.go) |
 | 23 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/description) | [23](./23.go) |
 | 24 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description) | [24](./24.go) |
+| 25 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/description) | [25](./25.go) |
