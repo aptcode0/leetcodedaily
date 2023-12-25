@@ -24,3 +24,4 @@
 | 18 | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description) | [18.go](./18.go) |
 | 19 | [661. Image Smoother](https://leetcode.com/problems/image-smoother/description) | [19.go](./19.go) |
 | 20 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description) | [20](./20.go) |
+| 21 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description) | [21](./21.go) |
