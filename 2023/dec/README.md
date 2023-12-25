@@ -26,3 +26,4 @@
 | 20 | [2706. Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description) | [20](./20.go) |
 | 21 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description) | [21](./21.go) |
 | 22 | [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description) | [22](./22.go) |
+| 23 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/description) | [23](./23.go) |
