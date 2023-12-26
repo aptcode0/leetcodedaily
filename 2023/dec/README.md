@@ -29,3 +29,4 @@
 | 23 | [1496. Path Crossing](https://leetcode.com/problems/path-crossing/description) | [23](./23.go) |
 | 24 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description) | [24](./24.go) |
 | 25 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/description) | [25](./25.go) |
+| 26 | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description) | [26](./26.go) |
