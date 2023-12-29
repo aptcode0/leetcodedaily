@@ -30,4 +30,5 @@
 | 24 | [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description) | [24](./24.go) |
 | 25 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/description) | [25](./25.go) |
 | 26 | [1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description) | [26](./26.go) |
-| 27 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/description) | [27](./27.go) |
+| 27 | [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/) | [27](./27.go) |
+| 28 | [1531. String Compression II](https://leetcode.com/problems/string-compression-ii/description) | [28](./28.go) |
