@@ -7,3 +7,4 @@
 | 2 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description) | [2.go](./2.go) |
 | 3 | [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/description) | [3.go](./3.go) |
 | 4 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description) | [4.go](./4.go) |
+| 5 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [5.go](./5.go) |
