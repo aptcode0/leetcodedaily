@@ -15,3 +15,4 @@
 | 10 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description) | [10.go](./10.go) |
 | 11 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description) | [11.go](./11.go) |
 | 12 | [169. Majority Element](https://leetcode.com/problems/majority-element/description) | [12.go](./12.go) |
+| 13 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description) | [13.go](./13.go) |
