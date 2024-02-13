@@ -14,3 +14,4 @@
 | 9 | [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description) | [9.go](./9.go) |
 | 10 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description) | [10.go](./10.go) |
 | 11 | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description) | [11.go](./11.go) |
+| 12 | [169. Majority Element](https://leetcode.com/problems/majority-element/description) | [12.go](./12.go) |
